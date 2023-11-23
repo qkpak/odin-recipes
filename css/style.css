@@ -8,11 +8,8 @@ h1{
   text-align: center;
 }
 
-ul li a {
-  font-weight: 900;
-}
-
 a {
+  font-weight: 900;
   color: #ffe;
 }
 
